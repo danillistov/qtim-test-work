@@ -11,7 +11,7 @@ const navMenuItems = [{ id: 1, name: "Blog", route: "/" }];
         <a href="index.html" rel="home">Danil Listov</a>
       </h1>
       <h2 class="site-description">
-        Simple blog list for testing fronted skills
+        Simple blog list for testing frontend skills
       </h2>
     </div>
     <TheNav :nav-menu-items="navMenuItems" />
